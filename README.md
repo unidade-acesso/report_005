@@ -2,7 +2,7 @@
 
 - URL: [www.cm-valongo.pt](https://www.cm-valongo.pt/)
 - Proprietário: CM Valongo
-- Candidatura a:  Inserir Selo Bronze, Selo Prata ou Selo Ouro
+- Candidatura a: Selo Prata
   
 ## Consulte aqui: [Relatório da Auditoria da CM Valongo](https://unidade-acesso.github.io/report_005/relatorio_report_005.html)
 
