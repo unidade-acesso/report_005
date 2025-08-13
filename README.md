@@ -1,4 +1,4 @@
-# Nome da entidade
+# Câmara Municipal de Valongo
 
 - URL: [www.cm-valongo.pt](https://www.cm-valongo.pt/)
 - Proprietário: CM Valongo
