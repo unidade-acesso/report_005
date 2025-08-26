@@ -1,6 +1,6 @@
 # Câmara Municipal de Valongo
 
-- URL: [www.cm-valongo.pt](https://www.cm-valongo.pt/)
+- URL: www.cm-valongo.pt
 - Proprietário: CM Valongo
 - Candidatura a: Selo Prata
   
