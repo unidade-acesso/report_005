@@ -4,7 +4,13 @@
 - Proprietário: CM Valongo
 - Candidatura a: Selo Prata
   
-## Consulte aqui: [Relatório da Auditoria da CM Valongo (Agosto 2025)](https://unidade-acesso.github.io/report_005/relatorio_report_005.html)
+## Relatório de Auditoria
 
-### Recursos de apoio ao relatório:
-- [Guia de utilização do relatório de auditorias](https://unidade-acesso.github.io/reports/guiao.html)
+Consulte aqui a última atualização: [Relatório da Auditoria da CM Valongo](22102025_report_005.html)
+
+<details>
+  <summary>Histórico de atualizações</summary>
+  <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="relatorio_report_005.html">(22/09/2025). Relatório da CM Barreiro</a></li>
+  </ul>
+</details>
